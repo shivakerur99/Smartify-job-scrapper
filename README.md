@@ -9,7 +9,7 @@ node app.js
 
 ## 🖼️ Output
 
-![console output](https://github.com/Leelaprasad001/Job-Listing-Scraper-Working-Nomads-Assignment/assets/76583080/3b9fbf81-f319-4f67-9142-f60a63a0f492)
+![console output](https://github.com/shivakerur99/Smartify-job-scrapper/blob/master/smartifyjsonoutput.jpg)
 
 
 check mongodb database base also you will see unique job's are stored in db
