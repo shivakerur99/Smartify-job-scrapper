@@ -1,0 +1,16 @@
+{
+  "name": "smartify",
+  "version": "1.0.0",
+  "description": "shivanand kerur assignment for smartify home company ",
+  "main": "app.js",
+  "scripts": {
+    "test": "node app.js"
+  },
+  "author": "shivanand kerur",
+  "license": "ISC",
+  "dependencies": {
+    "fs": "^0.0.1-security",
+    "mongodb": "^6.6.2",
+    "puppeteer": "^22.9.0"
+  }
+}
